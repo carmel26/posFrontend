@@ -3,10 +3,16 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { SignComponent } from './components/sign/sign.component';
+import { TabledataComponent } from './components/tabledata/tabledata.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    DashboardComponent,
+    SignComponent,
+    TabledataComponent
   ],
   imports: [
     BrowserModule,

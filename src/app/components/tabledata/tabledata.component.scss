@@ -1,0 +1,74 @@
+.div-principal {
+  position: relative;
+  min-height: 100%;
+}
+
+.div-bouton-header {
+  margin: 1rem;
+}
+
+.div-header {
+  margin: 1rem;
+  border: 1px solid whitesmoke;
+}
+
+.div-table {
+  margin: 1rem;
+  border: 1px solid whitesmoke;
+}
+
+button {
+  border: 0px;
+
+}
+
+.button-search {
+  margin: 0px;
+}
+
+.form-control {
+  padding: 1.5rem;
+}
+
+.div-input-text {
+  padding: 0.8rem;
+  margin-left: 5rem;
+}
+
+.div-input-select {
+  padding: 0.8rem;
+  margin-left: 5rem;
+}
+
+.style-bouton {
+  background: linear-gradient(#1D3767, #01C5F1);
+  border-color: #269abc;
+  padding: 0.8rem;
+}
+
+.privious {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+.btn.btn-primary {
+  background: #1D3767;
+}
+
+.div-footer {
+  bottom: 0;
+  position: absolute;
+  display: flex;
+}
+
+.div-footer-label {
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+
+.search-text {
+  border-radius: 1px;
+}

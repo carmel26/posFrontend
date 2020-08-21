@@ -1,0 +1,29 @@
+.body {
+  background: linear-gradient(#1D3767, #01C5F1);
+  height: 100vh;
+  width: 100vw;
+}
+
+.taille-div {
+  height: 100vh;
+  width: 100vw;
+}
+
+.input-password {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.simple-text {
+  color: aqua;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.submit-color {
+  background: linear-gradient(180deg, rgba(19, 236, 201, 1) 0%, rgba(0, 195, 243, 1) 100%);
+
+  &:hover {
+    border: 1px solid black;
+  }
+}
